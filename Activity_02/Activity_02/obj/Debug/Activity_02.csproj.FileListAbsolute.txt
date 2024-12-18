@@ -1,0 +1,8 @@
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\bin\Debug\Activity_02.exe.config
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\bin\Debug\Activity_02.exe
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\bin\Debug\Activity_02.pdb
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\obj\Debug\Activity_02.csproj.AssemblyReference.cache
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\obj\Debug\Activity_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\obj\Debug\Activity_02.csproj.CoreCompileInputs.cache
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\obj\Debug\Activity_02.exe
+C:\Users\233523\Desktop\Visual Programming\Lab-11\Activity_02\Activity_02\obj\Debug\Activity_02.pdb
